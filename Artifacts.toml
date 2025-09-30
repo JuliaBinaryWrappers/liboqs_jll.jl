@@ -1,0 +1,160 @@
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "9a7339d13599db85cd6d64a18eef2e62ecb267b8"
+os = "macos"
+
+    [[liboqs.download]]
+    sha256 = "8c26a81d9bee568fab37363478f6b27b0a33fcd187766776bb2039e94404946b"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-apple-darwin.tar.gz"
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "9a6e4cc5497ebe5f851d74de6d705712a98744d6"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "559df3f2499c012b868b778f1ed75185a14df08f394f4ef57d58051039a90dfe"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "15f1a2f3ec5a1b3923d7aa530f37846f00799a15"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "bcb8833a3a22bd2c097fd2edf7a472fbdf55673aee9cd732906bb4ac80cc28e5"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-linux-musl.tar.gz"
+[[liboqs]]
+arch = "aarch64"
+git-tree-sha1 = "3cae94def53a9225c544387963ea410b7d655085"
+os = "freebsd"
+
+    [[liboqs.download]]
+    sha256 = "4b84aa08f274808cf70cdd8c0c52f700c5dd81e4a01b0bc386fe2ffa93a2e954"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.aarch64-unknown-freebsd.tar.gz"
+[[liboqs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4e93844af3d093ff16f10e2696830ba39f4adcf0"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "f22b7576dfd5f16c81bcf64bab7c5572b4269738d4046d11ca60f31d547cd29c"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv6l-linux-gnueabihf.tar.gz"
+[[liboqs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3e6c648b6f451aeeb72fa17992bf7aed04f5637d"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "9905818b37449d1fca6ef3869bac75c8f0090b69c47dec5ed75d0ed2bdaf28dd"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv6l-linux-musleabihf.tar.gz"
+[[liboqs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bb0e629d9136102c6960712aa1f744fe485a24d4"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "1a643f4afbb0a43f927e5db9ae0c090a3c0a76e1a47b669361c996e2dc9ac770"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv7l-linux-gnueabihf.tar.gz"
+[[liboqs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d23c806ad18d867f2a3f16b47304147cbfeb82a"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "626b799553752191a18ba9abf7da8678133475279a3edebbda32f8c95a9ebb45"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.armv7l-linux-musleabihf.tar.gz"
+[[liboqs]]
+arch = "i686"
+git-tree-sha1 = "5c99465078ccedf4e5a8a68d7563966fefdfc81e"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "b3083d9f6615f53f25780d7aa7dcc6dba6df40481e85ffd818962a122e494961"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.i686-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "i686"
+git-tree-sha1 = "e87bd0afa90dc9d2c4f54f14a359ae90542d1ae4"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "a869198d9ffefc21cbab44511fee53e83b66956e0abc9951ea24424d9b92935a"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.i686-linux-musl.tar.gz"
+[[liboqs]]
+arch = "i686"
+git-tree-sha1 = "05b86adc23699279970da6fab07580aea8187ffd"
+os = "windows"
+
+    [[liboqs.download]]
+    sha256 = "a2af0ae1fd390c3376183c7db7c91bc179349a94b19d1ba71dd7ea142f0a0f33"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.i686-w64-mingw32.tar.gz"
+[[liboqs]]
+arch = "powerpc64le"
+git-tree-sha1 = "372107c76381cd776d0c95c542a5e9bfda5b11e1"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "5bce79309ea64d73c1ef587ac3f1a961fb377880017dc024fe53daab5d85574d"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.powerpc64le-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "riscv64"
+git-tree-sha1 = "6fdd476e50c6880a03e1655a17afb6e1c0595957"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "58394527f84b3d4fb532df7e02e44ec0be62a4ed4c5a23be9d5e2304e900c705"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.riscv64-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "97befb2a5a14c16bb083a840791a5d7a097d628c"
+os = "macos"
+
+    [[liboqs.download]]
+    sha256 = "9736380b14dc5c1a42acc6382aa3213d2725e4010cdabfd609fa71438b3ddae2"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-apple-darwin.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "0cb7fef1df916e9d4c72ae8a0525f88394e2d51b"
+libc = "glibc"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "e5450f88c10b404f7128a72571325eaef9693386b89a2cb3634cacf12fd4a4b6"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-linux-gnu.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "b1a801d6e80b31c474c1898afa496dcbf60032b6"
+libc = "musl"
+os = "linux"
+
+    [[liboqs.download]]
+    sha256 = "7bfc0bc5142c7af983a88429f964f32d3db84aed97b8a277d42403750709a1c5"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-linux-musl.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "bc96a0bf3f40486552e9303590cd568d250affba"
+os = "freebsd"
+
+    [[liboqs.download]]
+    sha256 = "bbea67c27123a2d7b70bcfcc55fe413afa3bffd008d5258672fa15c5ef67b67d"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-unknown-freebsd.tar.gz"
+[[liboqs]]
+arch = "x86_64"
+git-tree-sha1 = "701c22c1d851c368574134892671035424a4b4f9"
+os = "windows"
+
+    [[liboqs.download]]
+    sha256 = "6d044989874b7b43a9d4358c45e3e6ea488bce8a6646422ee708b57eafa96c73"
+    url = "https://github.com/JuliaBinaryWrappers/liboqs_jll.jl/releases/download/liboqs-v0.14.0+0/liboqs.v0.14.0.x86_64-w64-mingw32.tar.gz"
